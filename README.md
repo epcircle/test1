@@ -5,4 +5,4 @@ teste require code owner
 require 2 reviews
 pattern to apply protection rules
 testte
-test requer feedback
+test requer feedback.
